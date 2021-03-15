@@ -1,4 +1,11 @@
-### Web Developer in India 
+###    I am a Frontend Engineer
+
+- 🔭 I’m currently working on a Game called Chain Reaction plus
+- 🌱 I’m currently learning to build large sacale application using React JS
+- 👯 I’m looking to collaborate on my new Project Donate things
+- 💬 Ask me about Javascript
+- 📫 Reach me at chaitanya.kmc@gmail.com
+- ⚡ Fun fact: I love to play Table Tennis
 
 <!--
 **MalladiChaitanya/MalladiChaitanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
