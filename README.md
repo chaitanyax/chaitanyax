@@ -1,7 +1,7 @@
 ###    I am a Frontend Engineer
 
 - 🔭 I’m currently working on a Game called Chain Reaction plus
-- 🌱 I’m currently learning to build large sacale application using React JS
+- 🌱 I’m currently learning to build large scale application using React JS
 - 👯 I’m looking to collaborate on my new Project Donate things
 - 💬 Ask me about Javascript
 - 📫 Reach me at chaitanya.kmc@gmail.com
