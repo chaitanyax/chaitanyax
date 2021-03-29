@@ -1,4 +1,4 @@
-###    I am a Frontend Engineer
+###    Hi! I am Chaitanya
 
 - 🔭 I’m currently working on Frontend Hour (FE resources documentation) and a Game called Chain Reaction plus
 - 🌱 I’m currently learning to build large scale application using React JS
