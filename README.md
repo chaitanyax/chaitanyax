@@ -1,6 +1,11 @@
-###    Hi! I am Chaitanya
+### Hi, I'm Chaitanya 👋
 
-- 🌱 I’m currently learning to build large scale application
-- 💬 Ask me about Javascript
-- 📫 Reach me at chaitanya.kmc@gmail.com
-- ⚡ Fact: I am an Electronics Engineer
+Software Engineer with a strong interest in building scalable and reliable systems.  
+I enjoy exploring how modern applications are designed, built, and operated at scale.
+
+- 🌱 Currently learning: Large-scale system design, distributed systems, and cloud architectures
+- 💻 Core focus: JavaScript ecosystem and modern web development
+- 🧠 Interested in: Backend systems, microservices, and high-performance applications
+- 💬 Ask me about: JavaScript, application architecture, and building scalable web platforms
+- 📫 Reach me at: chaitanya.kmc@gmail.com
+- ⚡ Background: Electronics Engineer with a passion for software engineering
